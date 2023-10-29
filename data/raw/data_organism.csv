@@ -1,0 +1,824 @@
+organism_name,common_name,description
+Homo sapiens,human,Description
+Mus musculus,house mouse,Description
+Bubalus bubalis,water buffalo,Description
+Ovis ammon polii x Ovis aries,,Description
+Capricornis sumatraensis,Sumatran serow,Description
+Acomys kempi,Kemp's spiny mouse,Description
+Rattus norvegicus,Norway rat,Description
+Sus scrofa,pig,Description
+Bos taurus,cattle,Description
+Canis lupus familiaris,dog,Description
+Canis lupus dingo,dingo,Description
+Macaca mulatta,Rhesus monkey,Description
+Ovis aries,sheep,Description
+Capra hircus,goat,Description
+Macaca fascicularis,crab-eating macaque,Description
+Oryctolagus cuniculus,rabbit,Description
+Equus caballus,horse,Description
+Felis catus,domestic cat,Description
+Callithrix jacchus,white-tufted-ear marmoset,Description
+Bos indicus,zebu cattle,Description
+Bos grunniens,domestic yak,Description
+Pan troglodytes,chimpanzee,Description
+Rattus rattus,black rat,Description
+Monodelphis domestica,gray short-tailed opossum,Description
+Papio anubis,olive baboon,Description
+Ictidomys tridecemlineatus,thirteen-lined ground squirrel,Description
+Equus asinus,ass,Description
+Tursiops truncatus,common bottlenose dolphin,Description
+Peromyscus maniculatus bairdii,prairie deer mouse,Description
+Rhinolophus ferrumequinum,greater horseshoe bat,Description
+Ailuropoda melanoleuca,giant panda,Description
+Panthera tigris,tiger,Description
+Camelus dromedarius,Arabian camel,Description
+Neogale vison,American mink,Description
+Sarcophilus harrisii,Tasmanian devil,Description
+Notamacropus eugenii,tammar wallaby,Description
+Microtus ochrogaster,prairie vole,Description
+Gorilla gorilla gorilla,western lowland gorilla,Description
+Dasypus novemcinctus,nine-banded armadillo,Description
+Peromyscus leucopus,white-footed mouse,Description
+Bos indicus x Bos taurus,hybrid cattle,Description
+Ornithorhynchus anatinus,platypus,Description
+Ursus arctos,brown bear,Description
+Elephas maximus indicus,,Description
+Rangifer tarandus platyrhyncus,,Description
+Acomys cahirinus,Egyptian spiny mouse,Description
+Rhinopithecus roxellana,golden snub-nosed monkey,Description
+Cervus elaphus,red deer,Description
+Pongo pygmaeus,Bornean orangutan,Description
+Pongo abelii,Sumatran orangutan,Description
+Tachyglossus aculeatus,Australian echidna,Description
+Acinonyx jubatus,cheetah,Description
+Eschrichtius robustus,grey whale,Description
+Vulpes lagopus,Arctic fox,Description
+Manis pentadactyla,Chinese pangolin,Description
+Desmodus rotundus,common vampire bat,Description
+Mirounga angustirostris,Northern elephant seal,Description
+Prionailurus bengalensis,leopard cat,Description
+Pan paniscus,pygmy chimpanzee,Description
+Nomascus leucogenys,northern white-cheeked gibbon,Description
+Ochotona princeps,American pika,Description
+Physeter catodon,sperm whale,Description
+Capra aegagrus,wild goat,Description
+Odocoileus hemionus,mule deer,Description
+Perognathus longimembris pacificus,Pacific pocket mouse,Description
+Ovis ammon polii,,Description
+Panthera leo,lion,Description
+Orcinus orca,killer whale,Description
+Zalophus californianus,California sea lion,Description
+Lutra lutra,Eurasian river otter,Description
+Arvicanthis niloticus,Nile rat,Description
+Mus spretus,western wild mouse,Description
+Sorex araneus,European shrew,Description
+Hippopotamus amphibius kiboko,,Description
+Equus quagga,plains zebra,Description
+Peromyscus polionotus subgriseus,,Description
+Bubalus carabanensis,carabao,Description
+Tadarida brasiliensis,Brazilian free-tailed bat,Description
+Meles meles,Eurasian badger,Description
+Bos grunniens x Bos taurus,dzo,Description
+Tapirus indicus,Asiatic tapir,Description
+Eptesicus fuscus,big brown bat,Description
+Kogia breviceps,pygmy sperm whale,Description
+Ovis orientalis,Asiatic mouflon,Description
+Antrozous pallidus,pallid bat,Description
+Nycticebus coucang,slow loris,Description
+Dromiciops gliroides,monito del monte,Description
+Lemur catta,Ring-tailed lemur,Description
+Jaculus jaculus,lesser Egyptian jerboa,Description
+Sciurus carolinensis,gray squirrel,Description
+Bos gaurus,gaur,Description
+Paguma larvata,masked palm civet,Description
+Phyllostomus discolor,pale spear-nosed bat,Description
+Balaenoptera musculus,Blue whale,Description
+Pipistrellus pipistrellus,common pipistrelle,Description
+Trichosurus vulpecula,common brushtail,Description
+Delphinus delphis,saddleback dolphin,Description
+Balaenoptera acutorostrata,minke whale,Description
+Erinaceus europaeus,western European hedgehog,Description
+Microcebus murinus,gray mouse lemur,Description
+Lepus timidus,Mountain hare,Description
+Nasalis larvatus,proboscis monkey,Description
+Macaca thibetana thibetana,,Description
+Diceros bicornis minor,,Description
+Symphalangus syndactylus,siamang,Description
+Cynopterus sphinx,Indian short-nosed fruit bat,Description
+Heterohyrax brucei,yellow-spotted hyrax,Description
+Prionailurus viverrinus,fishing cat,Description
+Martes flavigula,yellow-throated marten,Description
+Budorcas taxicolor,takin,Description
+Urocyon cinereoargenteus,gray fox,Description
+Dugong dugon,dugong,Description
+Neofelis nebulosa,Clouded leopard,Description
+Eubalaena glacialis,North Atlantic right whale,Description
+Hipposideros larvatus,,Description
+Choloepus didactylus,southern two-toed sloth,Description
+Phocoena sinus,vaquita,Description
+Erethizon dorsatum,North American porcupine,Description
+Muntiacus reevesi,Reeves' muntjac,Description
+Sciurus vulgaris,Eurasian red squirrel,Description
+Tamandua tetradactyla,southern tamandua,Description
+Tamias sibiricus,Siberian chipmunk,Description
+Macaca cyclopis,Taiwan macaque,Description
+Camelus ferus,Wild Bactrian camel,Description
+Apodemus sylvaticus,European woodmouse,Description
+Myotis daubentonii,Daubenton's bat,Description
+Muscardinus avellanarius,hazel dormouse,Description
+Onychomys torridus,southern grasshopper mouse,Description
+Martes martes,European pine marten,Description
+Cervus canadensis,elk,Description
+Theropithecus gelada,gelada,Description
+Mustela nigripes,black-footed ferret,Description
+Suricata suricatta,meerkat,Description
+Grampus griseus,Risso's dolphin,Description
+Panthera onca,jaguar,Description
+Papio papio,Guinea baboon,Description
+Procyon lotor,raccoon,Description
+Leopardus geoffroyi,Geoffroy's cat,Description
+Saguinus oedipus,cotton-top tamarin,Description
+Felis chaus,jungle cat,Description
+Mustela lutreola,European mink,Description
+Cynocephalus volans,Philippine flying lemur,Description
+Okapia johnstoni,okapi,Description
+Pipistrellus pygmaeus,soprano pipistrelle,Description
+Vulpes ferrilata,Tibetan sand fox,Description
+Antechinus flavipes,yellow-footed antechinus,Description
+Mesoplodon densirostris,Blainville's beaked whale,Description
+Vulpes corsac,Corsac fox,Description
+Balaenoptera ricei,Rice's whale,Description
+Mustela erminea,ermine,Description
+Sylvilagus floridanus,eastern cottontail,Description
+Chionomys nivalis,European snow vole,Description
+Nycticebus bengalensis,Bengal slow loris,Description
+Hylobates pileatus,pileated gibbon,Description
+Phacochoerus africanus,Common warthog,Description
+Lynx canadensis,Canada lynx,Description
+Arvicola amphibius,Eurasian water vole,Description
+Suncus etruscus,white-toothed pygmy shrew,Description
+Acomys russatus,golden spiny mouse,Description
+Stenella coeruleoalba,striped dolphin,Description
+Lagenorhynchus albirostris,white-beaked dolphin,Description
+Hyperoodon ampullatus,northern bottlenose whale,Description
+Plecotus auritus,brown big-eared bat,Description
+Peromyscus eremicus,cactus mouse,Description
+Cervus hanglu yarkandensis,Yarkand deer,Description
+Muntiacus muntjak,muntjak,Description
+Neomonachus schauinslandi,Hawaiian monk seal,Description
+Panthera uncia,snow leopard,Description
+Cryptoprocta ferox,fossa,Description
+Tremarctos ornatus,spectacled bear,Description
+Rhinoceros unicornis,greater Indian rhinoceros,Description
+Piliocolobus tephrosceles,Ugandan red Colobus,Description
+Mus caroli,Ryukyu mouse,Description
+Mastomys coucha,southern multimammate mouse,Description
+Mus pahari,shrew mouse,Description
+Pusa sibirica,Baikal seal,Description
+Bos taurus x Bison bison,beefalo,Description
+Bos gaurus x Bos taurus,hybrid cow,Description
+Onychomys arenicola,Chihuahuan grasshopper mouse,Description
+Muntiacus crinifrons,black muntjac,Description
+Hexaprotodon liberiensis,pygmy hippopotamus,Description
+Onychomys leucogaster,northern grasshopper mouse,Description
+Colobus guereza,mantled guereza,Description
+Dasyurus viverrinus,eastern quoll,Description
+Giraffa camelopardalis rothschildi,,Description
+Saguinus midas,Midas tamarin,Description
+Pteropus rufus,Malagasy flying fox,Description
+Hydropotes inermis,Chinese water deer,Description
+Eidolon dupreanum,Malagasy straw-colored fruit bat,Description
+Chrysocyon brachyurus,maned wolf,Description
+Miopithecus talapoin,talapoin,Description
+Helarctos malayanus,Malayan sun bear,Description
+Gracilinanus agilis,Agile Gracile Mouse Opossum,Description
+Potos flavus,kinkajou,Description
+Nasua narica,White-nosed coati,Description
+Rousettus madagascariensis,Madagascan rousette,Description
+Arctocephalus townsendi,Guadalupe fur seal,Description
+Trachops cirrhosus,,Description
+Steno bredanensis,rough-toothed dolphin,Description
+Sylvilagus bachmani,brush rabbit,Description
+Xerus rutilus,unstriped ground squirrel,Description
+Lagorchestes hirsutus,rufous hare-wallaby,Description
+Leontopithecus rosalia,golden lion tamarin,Description
+Babyrousa celebensis,North Sulawesi babirusa,Description
+Uromys caudimaculatus,giant uromys,Description
+Pachyuromys duprasi,fat-tailed gerbil,Description
+Potorous gilbertii,Gilbert's potoroo,Description
+Macropus giganteus,eastern gray kangaroo,Description
+Varecia variegata,ruffed lemur,Description
+Eulemur mongoz,mongoose lemur,Description
+Acomys dimidiatus,,Description
+Coendou prehensilis,,Description
+Macropus fuliginosus,western gray kangaroo,Description
+Cercopithecus mitis,blue monkey,Description
+Phalanger gymnotis,,Description
+Pseudochirops cupreus,coppery ringtail possum,Description
+Pseudochirops corinnae,golden ringtail possum,Description
+Acomys percivali,Percival's spiny mouse,Description
+Giraffa tippelskirchi,,Description
+Pseudocheirus occidentalis,Western ringtail oppossum,Description
+Vicugna pacos,alpaca,Description
+Ursus maritimus,polar bear,Description
+Mesocricetus auratus,golden hamster,Description
+Cricetulus griseus,Chinese hamster,Description
+Chlorocebus sabaeus,green monkey,Description
+Mustela putorius furo,domestic ferret,Description
+Cavia porcellus,domestic guinea pig,Description
+Chlorocebus aethiops,grivet,Description
+Heterocephalus glaber,naked mole-rat,Description
+Camelus bactrianus,Bactrian camel,Description
+Macaca nemestrina,pig-tailed macaque,Description
+Marmota monax,woodchuck,Description
+Papio hamadryas,hamadryas baboon,Description
+Moschus berezovskii,Chinese forest musk deer,Description
+Phascolarctos cinereus,koala,Description
+Tupaia chinensis,Chinese tree shrew,Description
+Tupaia belangeri,northern tree shrew,Description
+Phodopus sungorus,Djungarian hamster,Description
+Myodes glareolus,Bank vole,Description
+Manis javanica,Malayan pangolin,Description
+Loxodonta africana,African savanna elephant,Description
+Myotis lucifugus,little brown bat,Description
+Meriones unguiculatus,Mongolian gerbil,Description
+Ursus americanus,American black bear,Description
+Delphinapterus leucas,beluga whale,Description
+Rousettus aegyptiacus,Egyptian rousette,Description
+Pteropus alecto,black flying fox,Description
+Bos frontalis,gayal,Description
+Macaca fuscata fuscata,Japanese macaque,Description
+Artibeus jamaicensis,Jamaican fruit-eating bat,Description
+Ceratotherium simum simum,southern white rhinoceros,Description
+Ochotona curzoniae,black-lipped pika,Description
+Urocitellus parryii,Arctic ground squirrel,Description
+Vulpes vulpes,red fox,Description
+Nannospalax galili,Upper Galilee mountains blind mole rat,Description
+Bos mutus,wild yak,Description
+Bison bison bison,,Description
+Odocoileus virginianus texanus,,Description
+Nyctereutes procyonoides,raccoon dog,Description
+Thomomys bottae,Botta's pocket gopher,Description
+Microtus fortis,reed vole,Description
+Sigmodon hispidus,hispid cotton rat,Description
+Pteropus vampyrus,large flying fox,Description
+Neotoma lepida,desert woodrat,Description
+Peromyscus californicus insignis,,Description
+Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,Description
+Ursus thibetanus thibetanus,,Description
+Capreolus capreolus,Western roe deer,Description
+Daubentonia madagascariensis,aye-aye,Description
+Myotis myotis,,Description
+Eonycteris spelaea,lesser dawn bat,Description
+Castor canadensis,American beaver,Description
+Eumetopias jubatus,Steller sea lion,Description
+Sapajus apella,tufted capuchin,Description
+Rhizomys pruinosus,hoary bamboo rat,Description
+Alces alces,Eurasian elk,Description
+Fukomys damarensis,Damara mole-rat,Description
+Spermophilus dauricus,Daurian ground squirrel,Description
+Puma concolor,puma,Description
+Galeopterus variegatus,Sunda flying lemur,Description
+Octodon degus,degu,Description
+Ovis canadensis,bighorn sheep,Description
+Lynx rufus,bobcat,Description
+Microtus californicus,California vole,Description
+Lepus europaeus,European hare,Description
+Phodopus roborovskii,desert hamster,Description
+Dipodomys merriami,Merriam's kangaroo rat,Description
+Monodon monoceros,narwhal,Description
+Marmota flaviventris,yellow-bellied marmot,Description
+Aotus nancymaae,Ma's night monkey,Description
+Cercocebus atys,sooty mangabey,Description
+Miniopterus schreibersii,Schreibers' long-fingered bat,Description
+Psammomys obesus,fat sand rat,Description
+Ondatra zibethicus,muskrat,Description
+Lycaon pictus,African hunting dog,Description
+Equus przewalskii,Przewalski's horse,Description
+Tokudaia osimensis,Amami-oshima island spiny rat,Description
+Rhabdomys pumilio,four-striped grass mouse,Description
+Hipposideros armiger,great roundleaf bat,Description
+Carlito syrichta,Philippine tarsier,Description
+Trichechus manatus latirostris,Florida manatee,Description
+Rhinopithecus bieti,black snub-nosed monkey,Description
+Procavia capensis,Cape rock hyrax,Description
+Microtus arvalis,Common vole,Description
+Moschus moschiferus,Siberian musk deer,Description
+Otolemur garnettii,small-eared galago,Description
+Thryonomys swinderianus,Greater cane rat,Description
+Addax nasomaculatus,,Description
+Megaptera novaeangliae,humpback whale,Description
+Marmota vancouverensis,Vancouver Island marmot,Description
+Pontoporia blainvillei,franciscana,Description
+Platanista gangetica,Ganges River dolphin,Description
+Pteronotus parnellii mesoamericanus,,Description
+Enhydra lutris kenyoni,northern sea otter,Description
+Odobenus rosmarus divergens,Pacific walrus,Description
+Petaurus breviceps papuanus,,Description
+Ia io,Great evening bat,Description
+Microtus oregoni,creeping vole,Description
+Myotis yumanensis,,Description
+Hoolock leuconedys,eastern hoolock gibbon,Description
+Molossus molossus,Pallas's mastiff bat,Description
+Corynorhinus townsendii,Townsend's big-eared bat,Description
+Erythrocebus patas,red guenon,Description
+Cebus albifrons,white-fronted capuchin,Description
+Trachypithecus francoisi,Francois's langur,Description
+Pipistrellus kuhlii,Kuhl's pipistrelle,Description
+Dipodomys spectabilis,banner-tailed kangaroo rat,Description
+Cephalopachus bancanus,Horsfield's tarsier,Description
+Saimiri boliviensis boliviensis,Bolivian squirrel monkey,Description
+Syncerus caffer,African buffalo,Description
+Mastomys natalensis,African soft-furred rat,Description
+Ovibos moschatus,muskox,Description
+Arctocephalus gazella,antarctic fur seal,Description
+Globicephala melas,long-finned pilot whale,Description
+Hyaena hyaena,striped hyena,Description
+Phoca vitulina,harbor seal,Description
+Hylobates moloch,silvery gibbon,Description
+Lagenorhynchus obliquidens,Pacific white-sided dolphin,Description
+Solenodon paradoxus,Hispaniolan solenodon,Description
+Antilocapra americana,pronghorn,Description
+Mirounga leonina,Southern elephant seal,Description
+Axis porcinus,Hog deer,Description
+Tapirus terrestris,Brazilian tapir,Description
+Hydrochoerus hydrochaeris,capybara,Description
+Balaenoptera physalus,Fin whale,Description
+Sousa chinensis,Indo-pacific humpbacked dolphin,Description
+Phataginus tricuspis,Tree pangolin,Description
+Marmota himalayana,Himalayan marmot,Description
+Crocuta crocuta,spotted hyena,Description
+Phocoena phocoena,harbor porpoise,Description
+Cricetomys gambianus,Gambian giant pouched rat,Description
+Capreolus pygargus,Eastern roe deer,Description
+Tragulus javanicus,Java mouse-deer,Description
+Macaca arctoides,stump-tailed macaque,Description
+Megaderma lyra,Indian false vampire,Description
+Martes zibellina,sable,Description
+Chinchilla lanigera,long-tailed chinchilla,Description
+Pedetes capensis,springhare,Description
+Cebus imitator,Panamanian white-faced capuchin,Description
+Myrmecobius fasciatus,numbat,Description
+Ctenomys sociabilis,social tuco-tuco,Description
+Cheirogaleus medius,Lesser dwarf lemur,Description
+Elaphurus davidianus,Pere David's deer,Description
+Mandrillus leucophaeus,drill,Description
+Dipodomys stephensi,Stephens's kangaroo rat,Description
+Hystrix brachyura,,Description
+Propithecus coquereli,Coquerel's sifaka,Description
+Semnopithecus entellus,Hanuman langur,Description
+Inia geoffrensis,boutu,Description
+Pseudois nayaur,bharal,Description
+Platanista minor,Indus River dolphin,Description
+Echinops telfairi,small Madagascar hedgehog,Description
+Macrotus californicus,California big-eared bat,Description
+Myotis davidii,,Description
+Lepus americanus,snowshoe hare,Description
+Apodemus speciosus,large Japanese field mouse,Description
+Cavia aperea,Brazilian guinea pig,Description
+Gulo gulo luscus,American wolverine,Description
+Marmota marmota marmota,Alpine marmot,Description
+Lama glama chaku,,Description
+Dicerorhinus sumatrensis harrissoni,,Description
+Otocolobus manul,Pallas's cat,Description
+Eptesicus nilssonii,northern bat,Description
+Sorex fumeus,smoky shrew,Description
+Nanger dama,Dama gazelle,Description
+Phyllostomus hastatus,greater spear-nosed bat,Description
+Ateles geoffroyi,black-handed spider monkey,Description
+Panthera pardus,leopard,Description
+Mandrillus sphinx,mandrill,Description
+Pygathrix nigripes,Black-shanked douc langur,Description
+Nomascus siki,southern white-cheeked gibbon,Description
+Tupaia tana,large tree shrew,Description
+Microtus agrestis,short-tailed field vole,Description
+Talpa occidentalis,Iberian mole,Description
+Sturnira hondurensis,,Description
+Typhlomys cinereus,Soft-furred tree mouse,Description
+Halichoerus grypus,gray seal,Description
+Lontra canadensis,Northern American river otter,Description
+Gymnobelideus leadbeateri,Leadbeater's possum,Description
+Capra sibirica,Siberian ibex,Description
+Oryx dammah,scimitar-horned oryx,Description
+Macroglossus sobrinus,,Description
+Eira barbara,Tayra,Description
+Pteropus giganteus,Indian flying fox,Description
+Mustela nivalis,least weasel,Description
+Mungos mungo,banded mongoose,Description
+Anoura caudifer,tailed tailless bat,Description
+Tonatia saurophila,stripe-headed round-eared bat,Description
+Noctilio leporinus,greater bulldog bat,Description
+Callorhinus ursinus,northern fur seal,Description
+Tolypeutes matacus,,Description
+Aeorestes cinereus,hoary bat,Description
+Helogale parvula,dwarf mongoose,Description
+Mus minutoides,Southern African pygmy mouse,Description
+Puma yagouaroundi,jaguarundi,Description
+Ailurus styani,,Description
+Lepus townsendii,white-tailed jackrabbit,Description
+Pteronura brasiliensis,giant otter,Description
+Aepyceros melampus,impala,Description
+Glaucomys volans,southern flying squirrel,Description
+Galemys pyrenaicus,,Description
+Choloepus hoffmanni,Hoffmann's two-fingered sloth,Description
+Spilogale gracilis,western spotted skunk,Description
+Micronycteris hirsuta,,Description
+Paradoxurus hermaphroditus,Asian palm civet,Description
+Mirza coquereli,Coquerel's mouse lemur,Description
+Beatragus hunteri,,Description
+Grammomys surdaster,,Description
+Pygathrix nemaeus,Red shanked douc langur,Description
+Alouatta palliata,mantled howler monkey,Description
+Mellivora capensis,ratel,Description
+Dipodomys ordii,Ord's kangaroo rat,Description
+Prolemur simus,greater bamboo lemur,Description
+Condylura cristata,star-nosed mole,Description
+Uropsilus gracilis,gracile shrew mole,Description
+Plecturocebus donacophilus,Bolivian titi,Description
+Rousettus leschenaultii,Leschenault's rousette,Description
+Speothos venaticus,bush dog,Description
+Colobus angolensis palliatus,,Description
+Myrmecophaga tridactyla,giant anteater,Description
+Lasiurus borealis,red bat,Description
+Eubalaena japonica,North Pacific right whale,Description
+Bubalus depressicornis,lowland anoa,Description
+Aplodontia rufa,mountain beaver,Description
+Caracal caracal,caracal,Description
+Lipotes vexillifer,Yangtze River dolphin,Description
+Miniopterus natalensis,,Description
+Mesoplodon bidens,Sowerby's beaked whale,Description
+Myocastor coypus,nutria,Description
+Indri indri,,Description
+Glis glis,Fat dormouse,Description
+Elephantulus edwardii,Cape elephant shrew,Description
+Leptonychotes weddellii,Weddell seal,Description
+Myotis brandtii,Brandt's bat,Description
+Dicrostonyx torquatus,Arctic lemming,Description
+Eulemur fulvus,brown lemur,Description
+Chrysochloris asiatica,Cape golden mole,Description
+Caperea marginata,pygmy right whale,Description
+Orycteropus afer afer,,Description
+Cynopterus brachyotis,lesser short-nosed fruit bat,Description
+Peromyscus melanophrys,plateau mouse,Description
+Microtus richardsoni,water vole,Description
+Eidolon helvum,straw-colored fruit bat,Description
+Smutsia temminckii,ground pangolin,Description
+Procapra przewalskii,Przewalski's gazelle,Description
+Carollia perspicillata,Seba's short-tailed bat,Description
+Cercopithecus neglectus,De Brazza's monkey,Description
+Balaenoptera bonaerensis,Antarctic minke whale,Description
+Manis crassicaudata,Indian pangolin,Description
+Saiga tatarica,,Description
+Ziphius cavirostris,Cuvier's beaked whale,Description
+Microtus montanus,montane vole,Description
+Bradypus variegatus,Brown-throated sloth,Description
+Chaetophractus vellerosus,Screaming hairy armadillo,Description
+Lama guanicoe cacsilensis,,Description
+Vicugna vicugna mensalis,,Description
+Kobus leche leche,,Description
+Hippotragus niger niger,,Description
+Taxidea taxus jeffersonii,,Description
+Macaca nigra,Celebes crested macaque,Description
+Ateles hybridus,brown spider monkey,Description
+Tragulus kanchil,,Description
+Macaca assamensis,Assam macaque,Description
+Macaca silenus,liontail macaque,Description
+Muntiacus gongshanensis,Gongshanensis muntjac,Description
+Cercopithecus mona,Mona monkey,Description
+Molossus nigricans,northern black mastiff bat,Description
+Tragelaphus eurycerus,bongo,Description
+Rhynchonycteris naso,proboscis bat,Description
+Rhinopithecus strykeri,Burmese snub-nosed monkey,Description
+Spilogale interrupta,plains spotted skunk,Description
+Trachypithecus phayrei crepuscula,,Description
+Cercopithecus albogularis,Sykes' monkey,Description
+Cricetomys ansorgei,southern giant pouched rat,Description
+Pithecia pithecia,white-faced saki,Description
+Loris tardigradus,slender loris,Description
+Lophocebus aterrimus,Black crested mangabey,Description
+Molossus alvarezi,Alvarez's mastiff bat,Description
+Pusa hispida saimensis,,Description
+Bettongia penicillata ogilbyi,,Description
+Ovis nivicola lydekkeri,,Description
+Proteles cristata cristata,,Description
+Otocyon megalotis megalotis,,Description
+Galago moholi,Moholi bushbaby,Description
+Pteropus pselaphon,Bonin flying fox,Description
+Capra ibex,Alpine ibex,Description
+Mustela eversmannii,steppe polecat,Description
+Smutsia gigantea,giant pangolin,Description
+Ctenodactylus gundi,northern gundi,Description
+Tursiops aduncus,Indo-pacific bottlenose dolphin,Description
+Sciurus niger,fox squirrel,Description
+Sus cebifrons,Visayan warty pig,Description
+Mormoops blainvillei,Antillean ghost-faced bat,Description
+Eudorcas thomsonii,Thomson's gazelle,Description
+Vombatus ursinus,common wombat,Description
+Cryptotis parvus,least shrew,Description
+Lynx pardinus,Spanish lynx,Description
+Rhynchomys soricoides,Mount Data shrew rat,Description
+Antechinus stuartii,brown antechinus,Description
+Mirza zaza,,Description
+Hipposideros pendleburyi,Pendlebury's leaf-nosed bat,Description
+Scalopus aquaticus,eastern mole,Description
+Connochaetes taurinus,brindled gnu,Description
+Hemitragus hylocrius,Nilgiri tahr,Description
+Catagonus wagneri,Chacoan peccary,Description
+Cavia tschudii,Montane guinea pig,Description
+Dinomys branickii,pacarana,Description
+Xerus inauris,South African ground squirrel,Description
+Litocranius walleri,gerenuk,Description
+Cephalophus harveyi,Harvey's duiker,Description
+Neotragus moschatus,suni,Description
+Hystrix cristata,crested porcupine,Description
+Nesogale talazaci,Talazac's shrew tenrec,Description
+Rhombomys opimus,great gerbil,Description
+Saguinus imperator,tamarin,Description
+Neodon shergylaensis,,Description
+Alexandromys oeconomus,root vole,Description
+Neofelis diardi,Sunda clouded leopard,Description
+Antidorcas marsupialis,springbok,Description
+Oreotragus oreotragus,klipspringer,Description
+Cervus albirostris,white-lipped deer,Description
+Sorex maritimensis,Maritime shrew,Description
+Redunca redunca,Bohar reedbuck,Description
+Damaliscus lunatus,topi,Description
+Dasyprocta punctata,punctate agouti,Description
+Microcebus sp. 3 GT-2019,,Description
+Lophiomys imhausi,crested rat,Description
+Tragelaphus strepsiceros,greater kudu,Description
+Mus spicilegus,steppe mouse,Description
+Neotragus pygmaeus,royal antelope,Description
+Orientallactaga bullata,Gobi jerboa,Description
+Petromus typicus,dassie-rat,Description
+Microcebus tavaratra,,Description
+Tragelaphus scriptus,bushbuck,Description
+Dolichotis patagonum,Patagonian cavy,Description
+Prionailurus iriomotensis,Iriomote cat,Description
+Madoqua kirkii,Kirk's dik-dik,Description
+Eulemur flavifrons,Sclater's lemur,Description
+Rhabdomys dilectus,mesic four-striped grass rat,Description
+Kobus ellipsiprymnus,waterbuck,Description
+Raphicerus campestris,steenbok,Description
+Oreamnos americanus,mountain goat,Description
+Murina aurata feae,,Description
+Zapus hudsonius,meadow jumping mouse,Description
+Craseonycteris thonglongyai,hog-nosed bat,Description
+Graphiurus murinus,woodland dormouse,Description
+Microcebus ravelobensis,,Description
+Peromyscus attwateri,Texas deermouse,Description
+Eulemur macaco,black lemur,Description
+Peromyscus nudipes,,Description
+Oryx gazella,gemsbok,Description
+Phataginus tetradactyla,long-tailed pangolin,Description
+Peromyscus aztecus,Aztec mouse,Description
+Microcebus griseorufus,,Description
+Microcebus mittermeieri,Mittermeier's mouse lemur,Description
+Nycticeius humeralis,evening bat,Description
+Praomys delectorum,delectable soft-furred mouse,Description
+Tragelaphus imberbis,lesser kudu,Description
+Ellobius lutescens,Transcaucasian mole vole,Description
+Philantomba maxwellii,Maxwell's duiker,Description
+Sylvicapra grimmia,bush duiker,Description
+Ellobius talpinus,Northern mole vole,Description
+Nanger granti,Grant's gazelle,Description
+Cabassous unicinctus,southern naked-tailed armadillo,Description
+Grammomys dolichurus,common thicket rat,Description
+Crocidura indochinensis,,Description
+Sorex palustris,American water shrew,Description
+Octomys mimax,viscacha rat,Description
+Hylomyscus alleni,Allen's wood mouse,Description
+Tympanoctomys barrerae,plains viscacha rat,Description
+Capromys pilorides,Desmarest's hutia,Description
+Cuniculus paca,Lowland paca,Description
+Moschus chrysogaster,alpine musk deer,Description
+Tragelaphus buxtoni,mountain nyala,Description
+Tragelaphus oryx,eland,Description
+Ourebia ourebi,oribi,Description
+Alcelaphus buselaphus,hartebeest,Description
+Manis culionensis,Palawan pangolin,Description
+Neophocaena asiaeorientalis sunameri,East Asian finless porpoise,Description
+Sus scrofa scrofa,,Description
+Mus musculus musculus,eastern European house mouse,Description
+Mus musculus molossinus,Japanese wild mouse,Description
+Sus scrofa domesticus,domestic pig,Description
+Canis lupus,gray wolf,Description
+Oryctolagus cuniculus cuniculus,,Description
+Panthera tigris tigris,Bengal tiger,Description
+Elephas maximus,Asiatic elephant,Description
+Rangifer tarandus caribou,,Description
+Cervus elaphus hippelaphus,,Description
+Ceratotherium simum cottoni,northern white rhinoceros,Description
+Odocoileus virginianus,white-tailed deer,Description
+Hippopotamus amphibius,hippopotamus,Description
+Diceros bicornis,black rhinoceros,Description
+Lama glama,llama,Description
+Felis nigripes,black-footed cat,Description
+Mustela putorius,European polecat,Description
+Equus asinus asinus,,Description
+Peromyscus maniculatus sonoriensis,,Description
+Panthera tigris jacksoni,Malayan tiger,Description
+Vicugna pacos huacaya,,Description
+Rangifer tarandus,reindeer,Description
+Rangifer tarandus granti,,Description
+Rangifer tarandus tarandus,,Description
+Prionailurus bengalensis euptilurus,Amur leopard cat,Description
+Perognathus longimembris,little pocket mouse,Description
+Ovis ammon,argali,Description
+Ursus thibetanus japonicus,Japanese black bear,Description
+Odocoileus hemionus hemionus,,Description
+Odocoileus hemionus sitkensis,,Description
+Equus quagga burchellii,Burchell's zebra,Description
+Diceros bicornis michaeli,,Description
+Enhydra lutris nereis,,Description
+Dicerorhinus sumatrensis sumatrensis,,Description
+Solenodon paradoxus woodi,,Description
+Gulo gulo,wolverine,Description
+Orycteropus afer,aardvark,Description
+Nanger dama ruficollis,,Description
+Microtus richardsoni arvicoloides,,Description
+Giraffa camelopardalis antiquorum,Kordofan giraffe,Description
+Giraffa camelopardalis,giraffe,Description
+Mus musculus domesticus,western European house mouse,Description
+Mus musculus castaneus,southeastern Asian house mouse,Description
+Thylacinus cynocephalus,Tasmanian wolf,Description
+Bubalus bubalis bubalis,,Description
+Panthera tigris altaica,Amur tiger,Description
+Ursus arctos horribilis,,Description
+Pteronotus parnellii,Parnell's mustached bat,Description
+Rhinolophus sinicus,Chinese rufous horseshoe bat,Description
+Hippotragus equinus,roan antelope,Description
+Ammotragus lervia,aoudad,Description
+Pantholops hodgsonii,chiru,Description
+Hydrodamalis gigas,Steller's sea cow,Description
+Cynomys gunnisoni,Gunnison's prairie dog,Description
+Hipposideros galeritus,Cantor's roundleaf bat,Description
+Megaloceros giganteus,Irish elk,Description
+Tragelaphus spekii,Sitatunga,Description
+Ovis canadensis canadensis,,Description
+Pan troglodytes verus,,Description
+Gorilla gorilla,western gorilla,Description
+Notamacropus eugenii eugenii,,Description
+Notamacropus eugenii derbianus,,Description
+Sminthopsis crassicaudata,fat-tailed dunnart,Description
+Petaurus breviceps,sugar glider,Description
+Potorous tridactylus,long-nosed potoroo,Description
+Burramys parvus,mountain pygmy possum,Description
+Acrobates pygmaeus,,Description
+Phascogale calura,red-tailed phascogale,Description
+Pseudochirulus forbesi,Painted ringtail,Description
+Cercartetus nanus,,Description
+Murexia naso,Long-nosed dasyure,Description
+Phalanger carmelitae,mountain cuscus,Description
+Petrogale xanthopus xanthopus,,Description
+Planigale tenuirostris,flat-skulled marsupial mouse,Description
+Petrogale wilkinsi,Wilkin's rock-wallaby,Description
+Sminthopsis macroura,stripe-faced dunnart,Description
+Petrogale coenensis,,Description
+Phascogale tapoatafa,brush-tailed phascogale,Description
+Pseudantechinus bilarni,Sandstone dibbler,Description
+Perameles nasuta,long-nosed bandicoot,Description
+Lagorchestes conspicillatus,spectacled hare-wallaby,Description
+Petrogale godmani,Godman's rock wallaby,Description
+Hypsiprymnodon moschatus,musky rat kangaroo,Description
+Spilocuscus maculatus,,Description
+Sminthopsis longicaudata,long-tailed dunnart,Description
+Sminthopsis psammophila,sandhill dunnart,Description
+Petrogale rothschildi,,Description
+Lasiorhinus latifrons,southern hairy-nosed wombat,Description
+Petrogale sharmani,,Description
+Thylogale billardierii,red-bellied pademelon,Description
+Dasyuroides byrnei,kowari,Description
+Phalanger orientalis,gray cuscus,Description
+Petrogale inornata,unadorned rock wallaby,Description
+Petrogale purpureicollis,purple-necked rock-wallaby,Description
+Dendrolagus dorianus notatus,,Description
+Petrogale concinna monastria,,Description
+Petrogale concinna canescens,,Description
+Onychogalea unguifera,northern nail-tailed wallaby,Description
+Aepyprymnus rufescens,rufous rat-kangaroo,Description
+Petrogale xanthopus celeris,,Description
+Perameles gunnii,eastern barred bandicoot,Description
+Petrogale brachyotis victoriae,,Description
+Distoechurus pennatus,New Guinean feather-tailed possum,Description
+Echymipera kalubu,Kalubu echymipera,Description
+Petrogale mareeba,,Description
+Sminthopsis ooldea,Ooldea dunnart,Description
+Petrogale persephone,Proserpine rock wallaby,Description
+Myoictis melas,three-striped marsupial mouse,Description
+Pseudocheirus peregrinus,common ring-tailed possum,Description
+Isoodon macrourus macrourus,,Description
+Pseudantechinus macdonnellensis,fat-tailed pseudantechinus,Description
+Wallabia bicolor,swamp wallaby,Description
+Bettongia penicillata,woylie,Description
+Antechinus godmani,Atherton antechinus,Description
+Petaurus abidi,Northern glider,Description
+Murexia longicaudata,short-furred dasyure,Description
+Petauroides volans,greater glider,Description
+Petrogale lateralis pearsoni,,Description
+Osphranter rufus,red kangaroo,Description
+Microperoryctes longicauda,striped bandicoot,Description
+Lagostrophus fasciatus,banded hare-wallaby,Description
+Peroryctes raffrayana,Raffray's bandicoot,Description
+Planigale gilesi,flat-skulled marsupial mouse,Description
+Dorcopsulus vanheurni,lesser forest wallaby,Description
+Bettongia lesueur,boodie,Description
+Wyulda squamicaudata,,Description
+Dasyurus maculatus,spotted-tailed quoll,Description
+Macrotis lagotis,bilby,Description
+Isoodon obesulus,southern brown bandicoot,Description
+Strigocuscus pelengensis,Banggai cuscus,Description
+Dasyurus geoffroii,western quoll,Description
+Echymipera clara,Clara's echymipera,Description
+Cercartetus caudatus,long-tailed pygmy possum,Description
+Cercartetus lepidus,,Description
+Isoodon obesulus obesulus,,Description
+Notoryctes typhlops,marsupial mole,Description
+Onychogalea fraenata,bridled nail-tailed wallaby,Description
+Petropseudes dahli,Rock-haunting ringtail,Description
+Setonix brachyurus,quokka,Description
+Petrogale lateralis hacketti,,Description
+Dactylopsila trivirgata,striped possum,Description
+Isoodon obesulus affinis,,Description
+Tarsipes rostratus,honey possum,Description
+Pseudochirulus herbertensis,Herbert river ringtail,Description
+Antechinomys laniger,,Description
+Isoodon auratus barrowensis,,Description
+Planigale maculata,pygmy planigale,Description
+Trichosurus arnhemensis,Northern Brushtail Possum,Description
+Phascolosorex dorsalis,narrow-striped marsupial shrew,Description
+Dasyurus albopunctatus,New Guinean quoll,Description
+Isoodon obesulus peninsulae,,Description
+Isoodon obesulus nauticus,,Description
+Dasyurus hallucatus,northern quoll,Description
+Murexia rothschildi,short-haired marsupial mouse,Description
+Antechinus agilis,Agile antechinus,Description
+Murexia melanurus,Black-tailed dasyure,Description
+Neophascogale lorentzii,long-clawed marsupial mouse,Description
+Isoodon fusciventer,,Description
+Notamacropus rufogriseus banksianus,,Description
+Sminthopsis leucopus,white-footed dunnart,Description
+Myoictis leucura,,Description
+Echymipera rufescens,long-nosed echymipera,Description
+Sminthopsis bindi,,Description
+Pseudochirops albertisii,D'Albertis' ringtail,Description
+Isoodon auratus auratus,,Description
+Pseudantechinus roryi,Rory Cooper's false Antechinus,Description
+Sminthopsis aitkeni,Kangaroo Island dunnart,Description
+Isoodon macrourus,northern brown bandicoot,Description
+Antechinus leo,cinnamon antechinus,Description
+Sminthopsis youngsoni,lesser hairy-footed dunnart,Description
+Ningaui ridei,Wongai ningaui,Description
+Ningaui yvonnae,southern ningaui,Description
+Ningaui timealeyi,Pilbara ningaui,Description
+Perameles bougainville,western barred bandicoot,Description
+Sminthopsis murina,narrow-footed marsupial mouse,Description
+Antechinus minimus,swamp antechinus,Description
+Dasycercus blythi,Brush-tailed Mulgara,Description
+Dasycercus cristicauda,Crest-tailed Mulgara,Description
+Myoictis wavicus,,Description
+Dasykaluta rosamondae,little red kaluta,Description
+Planigale ingrami,,Description
+Murexia habbema,Habbema dasyure,Description
+Pseudantechinus ningbing,ningbing antechinus,Description
+Sminthopsis griseoventer,gray-bellied dunnart,Description
+Strigocuscus celebensis,little Celebes cuscus,Description
+Myoictis wallacei,,Description
+Sminthopsis granulipes,white-tailed dunnart,Description
+Dorcopsis hageni,White-striped Dorcopsis,Description
+Dactylopsila palpator,long-fingered triok,Description
+Antechinus bellus,fawn antechinus,Description
+Osphranter robustus,common wallaroo,Description
+Sminthopsis dolichura,little long-tailed dunnart,Description
+Phalanger vestitus,Stein's cuscus,Description
+Sminthopsis virginiae,red-cheeked dunnart,Description
+Antechinus mimetes,,Description
+Notoryctes caurinus,,Description
+Notamacropus irma,western bush wallaby,Description
+Caloprymnus campestris,desert rat kangaroo,Description
+Notamacropus agilis,Agile wallaby,Description
+Sminthopsis gilberti,Gilbert's dunnart,Description
+Petaurus norfolcensis,squirrel glider,Description
+Microperoryctes papuensis,Papuan bandicoot,Description
+Pseudochirulus canescens,Lowland ringtail,Description
+Microperoryctes longicauda magnus,,Description
+Bettongia tropica,Northern bettong,Description
+Pseudochirops archeri,green ringtail possum,Description
+Osphranter antilopinus,antelopine kangaroo,Description
+Spilocuscus rufoniger,black-spotted cuscus,Description
+Cercartetus concinnus,,Description
+Hemibelideus lemuroides,Lemur-like ringtail,Description
+Thylogale browni,Brown's pademelon,Description
+Petaurus australis,yellow-bellied glider,Description
+Rhynchomeles prattorum,Seram bandicoot,Description
+Notamacropus rufogriseus rufogriseus,,Description
+Pseudantechinus woolleyae,Woolley's pseudantechinus,Description
+Phalanger sericeus,,Description
+Phalanger lullulae,woodlark cuscus,Description
+Pseudochirulus caroli,Weyland ringtail,Description
+Bettongia anhydra,,Description
+Sminthopsis hirtipes,hairy-footed dunnart,Description
+Bettongia gaimardi,Tasmanian bettong,Description
+Caluromys derbianus,Derby's woolly opossum,Description
+Potorous longipes,long-footed potoroo,Description
+Parantechinus apicalis,southern dibbler,Description
